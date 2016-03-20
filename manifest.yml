@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: ngoctest3
+  host: ngoctest3
+  disk_quota: 1024M
